@@ -2,7 +2,6 @@
   "name": "25-5-clock",
   "private": true,
   "version": "0.0.1",
-  "homepage": "http://mishakuzma.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
